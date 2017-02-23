@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Knockout_JS_CRUD.Models.Cat>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Cats List</h2>
+
+<p>
+    <a href="@Url.Action("Create", "Cats")" class="btn btn-primary" role="button">Create Cat</a>
+</p>
+<div class= "container">
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>
+                    Cat Name
+                </th>
+                <th>
+                    Breed
+                </th>
+                <th>
+                    Sex
+                </th>
+                <th>
+                    Age
+                </th>
+                <th>
+                    @*edit column*@
+                </th>
+                <th>
+                    @*delete column*@
+                </th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: Cats">
+            <tr>
+                <td data-bind="text: name"></td>
+                <td data-bind="text: breed"></td>
+                <td data-bind="text: sex"></td>
+                <td data-bind="text: age"></td>
+                <td>
+                    <a data-bind="click: editCat" class="btn btn-info btn-sm" role="button">Edit</a>
+                </td>
+                <td>
+                    <a data-bind="click: deleteCat" class="btn btn-warning btn-sm" role="button">Delete</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/Scripts/ViewModel/CatListVM.js")
+}

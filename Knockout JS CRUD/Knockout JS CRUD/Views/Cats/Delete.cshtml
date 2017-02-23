@@ -1,0 +1,84 @@
+﻿@model Knockout_JS_CRUD.Models.Cat
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete Cat</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Delete</legend>
+    <div class="editor-label">
+        Cat Name
+    </div>
+    <div class="editor-field">
+        <input data-bind="value: name" />
+    </div>
+
+    <div class="editor-label">
+        Cat Breed
+    </div>
+    <div class="editor-field">
+        <input data-bind="value: breed" />
+    </div>
+
+    <div class="editor-label">
+        Sex
+    </div>
+    <div class="editor-field">
+        <input data-bind="value: sex" />
+    </div>
+
+    <div class="editor-label">
+        Age
+    </div>
+    <div class="editor-field">
+        <input data-bind="value: age" />
+    </div>
+</fieldset>
+
+<p>
+    <button type="button" data-bind="click: DeleteCat" class="btn btn-danger">Delete Cat</button> |
+    <a href="@Url.Action("Index", "Cats")" class="btn btn-primary" role="button">Back to List</a>
+</p>
+
+
+@section Scripts {
+    <script>
+    $(function () {
+    ko.applyBindings(DeleteVM);
+});
+var InitialData = '@Html.Raw(ViewBag.InitialData)'; //get the raw json
+var parsedJSON = $.parseJSON(InitialData); //parse the json client side
+var DeleteVM = {
+    id: ko.observable(parsedJSON.id),
+    name: ko.observable(parsedJSON.name),
+    breed: ko.observable(parsedJSON.breed),
+    sex: ko.observable(parsedJSON.sex),
+    age: ko.observable(parsedJSON.age),
+    DeleteCat: function () {
+        $.ajax({
+            url: '/Cats/Delete',
+            type: 'post',
+            dataType: 'json',
+            data: ko.toJSON(this),
+            contentType: 'application/json',
+            success: function (result) {
+            },
+            error: function (err) {
+                if (err.responseText == "Creation Failed")
+                { window.location.href = '/Cats/Index/'; }
+                else {
+                    alert("Status:" + err.responseText);
+                    window.location.href = '/Cats/Index/';;
+                }
+            },
+            complete: function () {
+                window.location.href = '/Cats/Index/';
+            }
+        });
+    }
+};
+    </script>
+}

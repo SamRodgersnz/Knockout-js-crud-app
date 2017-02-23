@@ -1,0 +1,56 @@
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\ApplicationInsights.config
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\roslyn\csc.exe
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\roslyn\vbc.exe
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Knockout JS CRUD.dll.config
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Knockout JS CRUD.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Knockout JS CRUD.pdb
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Antlr3.Runtime.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\EntityFramework.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.AI.Web.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Newtonsoft.Json.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.Helpers.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.Mvc.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.Optimization.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.Razor.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.WebPages.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\WebGrease.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\EntityFramework.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.AI.Web.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.Helpers.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.Mvc.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.Optimization.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.Razor.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.WebPages.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Antlr3.Runtime.pdb
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\bin\Newtonsoft.Json.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\obj\Debug\Knockout JS CRUD.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\Knockout JS CRUD\Knockout JS CRUD\obj\Debug\Knockout JS CRUD.pdb

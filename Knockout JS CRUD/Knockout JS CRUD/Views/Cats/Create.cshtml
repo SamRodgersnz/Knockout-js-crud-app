@@ -1,0 +1,48 @@
+﻿@model Knockout_JS_CRUD.Models.Cat
+
+@{
+    ViewBag.Title = "Create";
+}
+
+    <fieldset>
+        <legend>Create Cat</legend>
+
+        <div class="editor-label">
+            Cat Name
+        </div>
+        <div class="editor-field">
+            <input data-bind="value: name" />
+        </div>
+
+        <div class="editor-label">
+            Cat Breed
+        </div>
+        <div class="editor-field">
+            <input data-bind="value: breed" />
+        </div>
+
+        <div class="editor-label">
+            Sex
+        </div>
+        <div class="editor-field">
+            <input data-bind="value: sex" />
+        </div>
+
+        <div class="editor-label">
+            Age
+        </div>
+        <div class="editor-field">
+            <input data-bind="value: age" />
+        </div>
+        
+        <p>
+            <button type="button" data-bind="click: SaveCat" class="btn btn-success">Save Cat To Database</button>
+        </p>
+    </fieldset>
+    <div>
+        <a href="@Url.Action("Index", "Cats")" class="btn btn-primary" role="button">Back to List</a>
+    </div>
+
+    @section Scripts {
+        @Scripts.Render("~/Scripts/ViewModel/CreateVM.js")
+    }
